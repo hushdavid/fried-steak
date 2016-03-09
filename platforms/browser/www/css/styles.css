@@ -1,0 +1,41 @@
+/*
+----------------------------------------------------------------
+	Custom tags
+----------------------------------------------------------------
+*/
+
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, strong, form, label, table, tbody, tfoot, tr, th, td
+{
+	margin:				0; 
+	padding:			0; 
+	border:				0; 
+	outline:			0; 
+	font-size:			100%; 
+	vertical-align:		baseline; 
+	background-color:	transparent;
+}
+
+article,aside,details,figcaption,figure, footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+body {
+	margin: 			0;
+	padding: 			0 0 100px;
+	height:				100%;
+	background-color:	#e9e9e9;
+	font-family: 		Helvetica,arial,sans-serif;
+	font-size:			14px;
+	font-weight: 		300;
+	color:				#000;
+}
+
+
+#wrapper {
+    margin: 0 auto;
+    width: 980px;
+    height: 640px;
+    background: #fff;
+}
